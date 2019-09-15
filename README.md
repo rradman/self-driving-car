@@ -1,2 +1,2 @@
 # self-driving-car
-Forward going car, avoiding obstacles using ultrasound sensors, operated by ATmega16A 8-bit Microcontroller (Atmel)
+Avoiding obstacles and returning to the original path while driving forward using ultrasound sensors, operated by ATmega16A 8-bit Microcontroller (Atmel)
